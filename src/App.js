@@ -8,7 +8,7 @@ import RenderPropApproach from './RenderPropApproach';
 
 const App = () =>
   <Fragment>
-    <RenderPropApproach />
+    <AxiosApproach />
   </Fragment>
   // <FetchApproach />
   // <AxiosApproach />
